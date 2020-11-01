@@ -16,7 +16,7 @@
 > 于是就只能往cookie里面噻了。没关系，可以做一个对应的client 用于起一个正常的正向代理跑在本地。或者自己封装一个client 给代码fq使用。
 
 
-## githubai
+## github api
 
 > https://api.github.com => https://proxy.scjtqs.com/githubmatch 
 
