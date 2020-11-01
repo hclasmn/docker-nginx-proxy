@@ -14,3 +14,12 @@
 > 最开始是放在header的，但是尝试了之后发现不行（似乎被kintohub给过滤掉了）
 
 > 于是就只能往cookie里面噻了。没关系，可以做一个对应的client 用于起一个正常的正向代理跑在本地。或者自己封装一个client 给代码fq使用。
+
+
+## githubai
+
+> https://api.github.com => https://proxy.scjtqs.com/githubmatch 
+
+## telegram api
+
+> https://api.telegram.org => https://proxy.scjtqs.com/tgapi
