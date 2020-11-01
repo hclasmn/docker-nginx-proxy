@@ -18,7 +18,11 @@
 
 ## github api
 
-> https://api.github.com => https://proxy.scjtqs.com/githubmatch 
+> https://api.github.com => https://proxy.scjtqs.com/githubmatch    Accept: application/vnd.github.v3.text-match+json
+
+> https://api.github.com => https://proxy.scjtqs.com/githubrepo   Accept: application/vnd.github.v3+json
+
+> https://api.github.com => https://proxy.scjtqs.com/github 
 
 ## telegram api
 
