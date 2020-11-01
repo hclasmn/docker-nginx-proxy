@@ -20,12 +20,16 @@
 
 ## github api
 
-> https://api.github.com => https://proxy.scjtqs.com/githubmatch    Accept: application/vnd.github.v3.text-match+json
+> https://api.github.com/ => https://proxy.scjtqs.com/githubmatch/    Accept: application/vnd.github.v3.text-match+json
 
-> https://api.github.com => https://proxy.scjtqs.com/githubrepo   Accept: application/vnd.github.v3+json
+> https://api.github.com/ => https://proxy.scjtqs.com/githubrepo/   Accept: application/vnd.github.v3+json
 
-> https://api.github.com => https://proxy.scjtqs.com/github 
+> https://api.github.com/ => https://proxy.scjtqs.com/github/ 
 
 ## telegram api
 
-> https://api.telegram.org => https://proxy.scjtqs.com/tgapi
+> https://api.telegram.org/ => https://proxy.scjtqs.com/tgapi/
+
+## pixiv
+
+> https://i.pximg.net/  => https://proxy.scjtqs.com/pixiv/
